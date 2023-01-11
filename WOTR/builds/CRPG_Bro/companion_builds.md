@@ -21,3 +21,7 @@ Notes
 ## [Regill](https://docs.google.com/spreadsheets/d/172xXYSSdOvrWGKAdsQ6YzrhNlzO75bKzPMJx96Apf0M/edit?usp=sharing)
 
 ## [Sosiel](https://docs.google.com/spreadsheets/d/1_ZKN3X7_0U-vRTtRNNsQCBxOdyU7szd6Bt7oc73ouIk/edit?usp=sharing)
+
+Notes
+
+- Cast Legendary Proportions on Pet and Frightful Aspect on Sosiel so You can Mount the Pet.
