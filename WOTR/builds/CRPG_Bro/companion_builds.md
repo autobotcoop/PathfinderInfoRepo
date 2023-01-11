@@ -19,3 +19,5 @@ Notes
 ## [Daeran](https://docs.google.com/spreadsheets/d/1eQoaa57r291ZG4GHN2tW1w4UXQ7JWJCKbzgsnO8Jraw/edit?usp=sharing)
 
 ## [Regill](https://docs.google.com/spreadsheets/d/172xXYSSdOvrWGKAdsQ6YzrhNlzO75bKzPMJx96Apf0M/edit?usp=sharing)
+
+## [Sosiel](https://docs.google.com/spreadsheets/d/1_ZKN3X7_0U-vRTtRNNsQCBxOdyU7szd6Bt7oc73ouIk/edit?usp=sharing)
