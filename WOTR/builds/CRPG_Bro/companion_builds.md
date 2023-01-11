@@ -25,3 +25,5 @@ Notes
 Notes
 
 - Cast Legendary Proportions on Pet and Frightful Aspect on Sosiel so You can Mount the Pet.
+
+## [Pets](https://docs.google.com/spreadsheets/d/11PZSzLnwL7RJBn52Y1tnOLQgjtQOIvxoJ0o7Jk4ZVO8/edit?usp=sharing)
