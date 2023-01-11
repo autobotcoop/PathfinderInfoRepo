@@ -6,9 +6,9 @@ Work in Progress
 
 CRPG Bro loves to min-max, put everyone in melee, and give everyone a pet.
 
-### [Main Character](WOTR/builds/CRPG_Bro/mc_builds.md)
+### [Main Character](CRPG_Bro/mc_builds.md)
 
-### [Companions](WOTR/builds/CRPG_Bro/companion_builds.md)
+### [Companions](CRPG_Bro/companion_builds.md)
 
 ## Bolshy Plays
 
