@@ -54,3 +54,15 @@ When ready, talk to Irebeth to trigger the Assault. The one warning about Gray G
 [Source](https://www.reddit.com/r/Pathfinder_Kingmaker/comments/pghsgm/spoilers_simplified_act_1_walkthrough_spoilers/)
 
 Editor's Note: fixed some formatting and updated some info.
+
+## Notable Loot
+
+- Abrupt Force: in the house with the brimoak
+
+- Piece of a Holy Symbol: in the house with the brimoak
+
+- Wicked Bow: in the house with a basement on the north side.
+
+## Checklist
+
+- Read the books in the library: right clck them and  click info.
