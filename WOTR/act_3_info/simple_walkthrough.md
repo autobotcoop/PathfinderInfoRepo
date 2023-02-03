@@ -1,3 +1,5 @@
+# Simple Walkthrough
+
 - Molten Scar
 - Greengates
 - Mythic quests if there's a special area for them
